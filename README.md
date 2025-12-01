@@ -47,5 +47,14 @@ According to the Pontificia Universidad Bolivariana (UPB), approximately 615 boo
 - The first hour of rental is free; additional hours are charged.
 - Late deliveries incur extra fees.
 
+## Version History 
+
+**Version 1.00:** 
+-Implement list of books 
+-Implement menu selection 
+
+**Version 1.01:**
+
+
 
 
