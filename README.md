@@ -53,10 +53,13 @@ According to the Pontificia Universidad Bolivariana (UPB), approximately 615 boo
 + Implement list of books 
 + Implement menu selection 
 + Implement payment system
-
++ Implement time system
 
 **Version 1.01:**
 + Code optimization
+
+
+
 
 
 
