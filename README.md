@@ -52,8 +52,11 @@ According to the Pontificia Universidad Bolivariana (UPB), approximately 615 boo
 **Version 1.00:** 
 -Implement list of books 
 -Implement menu selection 
+-Implement payment system
+
 
 **Version 1.01:**
+-Code optimization
 
 
 
