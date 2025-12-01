@@ -1,6 +1,6 @@
 # ***Book Sales and Rental Management System***
 
-### ***Functional prototype that allows renting and buying books, with a reminder system through notifications ***
+### ***Functional prototype that allows renting and buying books, with a reminder system through notifications***
 
 ### ***Purpose:***
 According to the Pontificia Universidad Bolivariana (UPB), approximately 615 books taken from their libraries had not been returned in 2017 (UPB, 2017). This action threatens society by restricting access to the knowledge, culture, and entertainment offered by books. Unfortunately, this problem has not disappeared, and many libraries and bookstores are still economically affected by these losses, including small businesses. Our sales and rental management system aims to help these businesses minimize losses through a consistent reminder system and an efficient payment methodology.
