@@ -19,6 +19,11 @@ According to the Pontificia Universidad Bolivariana (UPB), approximately 615 boo
 ### ***System Status:***
 + Under development.
 
+### ***Contributors:***
++ Wilfran A. Santos Martínez
++ Joel A. Lugo Báez
++ Daniela M. Zayas Vega
+
 ### ***Reference:***
 + UPB News Agency - Medellín (February 6, 2017). *Why is it important to return books on time to the library?* Pontificia Universidad Bolivariana. https://www.upb.edu.co/es/noticia/por-que-es-importante-devolver-los-libros-a-tiempo-en-la-biblioteca#:~:text=A%20la%20fecha%2C%20615%20libros%20no%20han%20sido,el%20acceso%20a%20la%20informaci%C3%B3n%20a%20otros%20usuarios.
 
