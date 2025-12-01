@@ -1,54 +1,51 @@
-# ***Sistema de gestión de venta y alquiler de libros.***
+# ***Book Sales and Rental Management System***
 
-### ***Prototipo funcional que permite alquilar y comprar libros, con sistema de recordatorios por medio de notificaciones y alertas.***
+### ***Functional prototype that allows renting and buying books, with a reminder system through notifications and alerts.***
 
-### ***Proposito:***
-Según la Universidad Pontificia Bolivariana (UPB), aproximadamente 615 libros que habían sido tomados de sus bibliotecas no habían sido devueltos en 2017 (UPB, 2017). Dicha acción amenaza a la sociedad, restringiendo a otros del conocimiento, cultura y entretenimiento ofrecidos por los libros. Lamentablemente esta acción no se ha quedado en el pasado, todavía muchas bibliotecas y librerías se ven afectadas económicamente por las pérdidas, incluyendo negocios pequeños. Nuestro sistema de gestión de ventas y alquiler de pagos busca ayudar a estos negocios a minimizar las pérdidas a través de un sistema de recordatorios constante y una metodología de pago eficiente.
+### ***Purpose:***
+According to the Pontificia Universidad Bolivariana (UPB), approximately 615 books taken from their libraries had not been returned in 2017 (UPB, 2017). This action threatens society by restricting access to the knowledge, culture, and entertainment offered by books. Unfortunately, this problem has not disappeared, and many libraries and bookstores are still economically affected by these losses, including small businesses. Our sales and rental management system aims to help these businesses minimize losses through a consistent reminder system and an efficient payment methodology.
 
-### ***Características principales:***
-+ Selección de libros.
-+ Recordatorios.
-+ Sistema de pago.
+### ***Main Features:***
++ Book selection.
++ Reminders.
++ Payment system.
 
-### ***Tecnología utilizada:***
-+ Lenguaje c++.
+### ***Technology Used:***
++ C++ programming language.
 
-### ***Público objetivo:***
-+ Bibliotecas y librerías pequeñas que busquen minimizar perdidas de libros.
+### ***Target Audience:***
++ Small libraries and bookstores that want to minimize book losses.
 
-### ***Estado del sistema:***
-+ En desarrollo.
+### ***System Status:***
++ Under development.
 
-### ***Referencia:***
-+ Agencia de Noticias UPB - Medellín.(6 de febrero 2017)*¿Por qué es importante devolver los libros a tiempo en la Biblioteca?* Universidad Pontificia Bolivariana, https://www.upb.edu.co/es/noticia/por-que-es-importante-devolver-los-libros-a-tiempo-en-la-biblioteca#:~:text=A%20la%20fecha%2C%20615%20libros%20no%20han%20sido,el%20acceso%20a%20la%20informaci%C3%B3n%20a%20otros%20usuarios.
+### ***Reference:***
++ UPB News Agency - Medellín (February 6, 2017). *Why is it important to return books on time to the library?* Pontificia Universidad Bolivariana. https://www.upb.edu.co/es/noticia/por-que-es-importante-devolver-los-libros-a-tiempo-en-la-biblioteca#:~:text=A%20la%20fecha%2C%20615%20libros%20no%20han%20sido,el%20acceso%20a%20la%20informaci%C3%B3n%20a%20otros%20usuarios.
 
-# Librería Online Interamericana
 
-Este proyecto es un programa en C++ que permite **comprar, alquilar libros** y crear **recordatorios**.
+## How to Use
 
-## Cómo usar
+1. **Run the program** in your C++ environment or terminal.
+2. **Select a book** from the list by entering the corresponding number.
+3. **Choose an action**:
+   - `a` → Buy the book
+   - `b` → Rent the book
+4. **Buying or renting**:
+   - Enter your card information:
+     - Name (first name only)
+     - Card number (16–19 digits)
+     - CVV (3–4 digits)
+   - Confirm or cancel the transaction.
+5. **Create a reminder**:
+   - Choose seconds or minutes.
+   - Enter the message and time.
+6. **Confirm or postpone book delivery**.
+7. **Invalid options** will display an error message.
 
-1. **Ejecutar el programa** en tu entorno de C++ o terminal.
-2. **Seleccionar un libro** de la lista ingresando el número correspondiente.
-3. **Elegir una acción**:
-   - `a` → Comprar el libro
-   - `b` → Alquilar el libro
-4. **Comprar o alquilar**:
-   - Ingresar información de tarjeta:
-     - Nombre (solo el primero)
-     - Número de tarjeta (16–19 dígitos)
-     - CVV (3–4 dígitos)
-   - Confirmar o cancelar.
-5. **Crear recordatorio**:
-   - Seleccionar segundos o minutos.
-   - Escribir mensaje y tiempo.
-6. **Confirmar o posponer entrega** del libro.
-7. **Opciones inválidas** mostrarán un mensaje de error.
+## Notes
 
-## Notas
-
-- Primer hora de alquiler gratuita, luego se cobran horas adicionales.
-- Retrasos en la entrega aplican cargos adicionales.
+- The first hour of rental is free; additional hours are charged.
+- Late deliveries incur extra fees.
 
 
 
